@@ -7,6 +7,7 @@ I'm currently woorking at Raykam .Co as a fullstack .Net developer.
 
 >  📫 How to reach me:
 > > **Email:** pzeinali4@gmail.com
+> > 
 > > **Telegram:** @pz79s
 
 <!--
