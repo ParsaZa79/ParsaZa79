@@ -5,9 +5,9 @@ I'm currently woorking at Raykam .Co as a fullstack .Net developer.
 - 👯 I’m looking to collaborate on .Net and Flutter projects.
 - 🌱 I’m currently learning **Data Analysis** and **Software Architecture**.
 
--  📫 How to reach me:
-  - **Email:** pzeinali4@gmail.com
-  - **Telegram:** @pz79s
+>  📫 How to reach me:
+> > **Email:** pzeinali4@gmail.com
+> > **Telegram:** @pz79s
 
 <!--
 **ParsaZa79/ParsaZa79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
