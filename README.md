@@ -6,7 +6,7 @@ It's like learning to surf in a sea of polygons and textures. We're meshing code
 
 - 👯 I’m looking to collaborate on .Net, Flutter, C++ and JS (Vue) projects.
 - 🌱 I’m currently learning **3D STUFF** and with a hint of **Complex Algorithms**.
-- ⚡ Fun fact:
+- ⚡ Fun fact 👇
 > Did you know? The term 'debugging' was popularized by Admiral Grace Hopper in the 1940s when she literally removed a moth from her computer - now that's what I call hands-on problem solving! As a multilingual programmer dabbling in AI, Computer Architecture, and Robotics, I like to think I'm continuing the tradition - minus the actual bugs!
 
 >  📫 How to reach me:
